@@ -4,6 +4,7 @@ Apa itu ? Dunia paralel ? atau dunia kebalikan ? Yap betul....
 
 Reverse di gunakan untuk membaca dari belakang ke depan, misalkan kita ingin membalikkan **bashocode** menjadi **edocohsab**
 
+
 Kita bisa gunakan cara manual, yakni looping
 
 ```javascript
